@@ -121,7 +121,7 @@ export const AppBar = React.memo(
           )}
         </NavigationBar>
         <Toolbar variant="dense" className={classes.toolbar}>
-          <Typography variant="caption">Powered by OpenRMF</Typography>
+          <Typography variant="caption">Powered by Recruit Robots</Typography>
           {/* TODO: Hiding until we have a better theme */}
           {/* <IconButton
             id="show-settings-btn"
